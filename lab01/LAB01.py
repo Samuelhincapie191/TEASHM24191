@@ -3,4 +3,6 @@
 #Fecha: 02/09/2022
 #Editado: 02/09/2022
 
-print("Hola mundo!!")
+print (15 + 30)
+
+
